@@ -6,7 +6,7 @@
         document.body.style.color      = 'black';
         document.body.style.margin     = '0px';
         helloworld();
-        application.ready('show');
+        application.run();
     }
     
     function application_onReady() {
