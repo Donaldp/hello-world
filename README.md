@@ -9,7 +9,7 @@ Minimum Requirments for compiling this app
 
 
 ## Build
-Launch Developer Command Prompt for Xylon Studio
+Launch the Developer Command Prompt for Xylon Studio
 
 Mount 
 ```
