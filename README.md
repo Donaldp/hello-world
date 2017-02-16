@@ -9,7 +9,7 @@ Minimum Requirments for compiling this app
 
 
 ## Build
-Launch XS Developer Console
+Launch Developer Command Prompt for Xylon Studio
 
 Mount 
 ```
