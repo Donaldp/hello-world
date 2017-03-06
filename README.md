@@ -25,5 +25,5 @@ xs -build Hello World.xsproj
 
 Run
 ```
-xs -run bin\x86\Debug\HelloWorld.exe
+xs -run bin/x86/Debug/HelloWorld.exe
 ```
