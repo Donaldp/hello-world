@@ -10,7 +10,7 @@
     }
     
     function application_onReady() {
-        application.onExit('kill');
+        application.onExit('application.destroy();');
     }
     
     function helloworld() {
@@ -20,7 +20,7 @@
         var name = inputDialog.inputdata;
         if (name != '')
         {
-            output.writeline('Hello '+ name);
+            output.writeln('Hello '+ name);
             document.getElementById('lblh').innerHTML = 'Hello '+ name;
         }
     }
