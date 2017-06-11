@@ -5,9 +5,16 @@
    <ConfigBuild>Debug</ConfigBuild>
    <ConfigCPU>x86</ConfigCPU>
    <ConfigFRAMEWORK>.NET Framework 4.0</ConfigFRAMEWORK>
-   <ConfigENGINE>Subatomic (Next)</ConfigENGINE>
+   <ConfigENGINE>Subatomic</ConfigENGINE>
    <EnvironmentName>xstudio</EnvironmentName>
    <EnvironmentVersion>1.0</EnvironmentVersion>
    <String>windows.helloworld.helloworld</String>
    <Output>\bin\x86\Debug</Output>
+   <echo println="A subatomicJs Hello World example
+
+Minimum Requirments for compiling this app
+
+1. Xylon Studio 0.2.5 (Developer Preview Update 3)
+2. $_PROJECT_ENG
+3. $_PROJECT_FRAMEWORK"/>
 </Properties>
